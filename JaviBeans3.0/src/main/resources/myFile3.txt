@@ -1,0 +1,31 @@
+1.How does loops help us?
+execute a statement multiple times
+repeat the same codes 
+write a code in different ways
+recursion
+execute a statement multiple times
+2.What are the three general types of looping structures?
+counting loop,  sentinel-controlled loop,  and result-controlled loop
+infinite loop, counting loop, nested loop
+while loop, for loop, do loop
+count up loop, count down loop, infinite loop
+counting loop,  sentinel-controlled loop,  and result-controlled loop
+3.for(int j= 0;j <5; j++){System.out.print(j + " ");}System.out.println( );
+0 1 2 3 4 5
+0 1 2 3 4
+0 1 2 3 4 5
+j j j j j
+0 1 2 3 4
+4.for(int j =10;j > 5;j--){ System.out.print( j + " " );} System.out.println( );
+10 11 12 13 14 15
+9 8 7 6 5 4 3 2 1 0
+10 9 8 7 6 5
+10 9 8 7 6
+10 9 8 7 6
+5.for (int j = 5;j > -5; j--)System.out.print(j + " " );System.out.println( );
+-5 -4 -3 -2 -1 0
+5 4 3 2 1 0
+5 4 3 2 1 0 -1 -2 -3 -4 -5
+5 4 3 2 1 0 -1 -2 -3 -4
+5 4 3 2 1 0 -1 -2 -3 -4
+

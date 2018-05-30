@@ -1,0 +1,32 @@
+1. Java pogramming language was created by who?
+Sun MicroSystems, Inc 
+Microsoft
+Apple 
+TempeMarket place
+Sun MicroSystems, Inc 
+2. Java pogramming language was purchased by who later on?
+Sun MicroSystems, Inc 
+Apple
+Microsoft
+Oracle
+Oracle
+3. What is a variable?
+name for a location in memory
+name for a location in cpu
+name of different methods
+name of a symbol
+name for a location in memory
+4. How many data types does java has?
+1
+5
+8
+7
+8
+5. What is the point of objects 
+to organize large amounts of information
+to organize large amounts of method
+to initialize large amounts of information
+to give value to information
+to organize large amounts of information
+
+

@@ -1,0 +1,42 @@
+1.Which of the following is FALSE about arrays on Java?
+A java array is always an object  
+Length of array can be changed after creation of array
+Arrays in Java are always allocated on heap
+None of the above
+Length of array can be changed after creation of array
+2. What is the length of the following array: byte[] data = { 12, 34, 9, 0, -62, 88 };
+1
+5
+6
+12
+6
+3.Does a programmer always know how long an array will be when the program is being written?
+Yes,the program will not compile without the length being declared.
+No,the array object is created when the program is running, and the length might change from run to run.
+Yes,otherwise the program will not run correctly.
+No,arrays can grow to whatever length is needed.
+No,the array object is created when the program is running, and the length might change from run to run.
+4.Identiffy the 2D array with 7 rows, but that has not yet constructed the rows?
+int[][] array = new int[7][];
+int[][] array = new int[7];
+int[][] array = new int[][7];
+int[] array[7] = new int[];
+int[][] array = new int[7][];
+5.Which of the following, if any, is an invalid array declaration?
+String[] names = new String[5];
+String names[] = new String[5];
+String[] names = {"one", "two"};
+all are valid
+all are valid
+4.Which of the following statements gets the number of integers in int[] customers = new int[55]; 
+int size = customers.length();
+int size = customers.length;
+int size = customers.size();
+int size = Arrays.size(customers);
+int size = customers.length;
+5.The length of int[] grades = new int[4]; is:
+0 
+3
+4
+5
+4

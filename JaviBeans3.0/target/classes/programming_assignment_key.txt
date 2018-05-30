@@ -1,0 +1,53 @@
+Module 1 Programming Asssignment
+Write a program that displays the output "Hello World!".
+ 
+ 
+ 
+Hello World!
+println
+Your program must contain a println statement.
+%
+Module 2 Programming Asssignment
+Declare an integer x and set it equal to 3. 
+Declare an integer y and set it equal to 4.
+    Display 3 times 4 in the output.
+ 
+12
+int x
+Your program must contain an int declaration callled x.
+%
+Module 3 Programming Asssignment
+ Declare a String x and set it equal to "Javi". Declare a String y 
+and set it equal to "Beans". Display the concatentation of x and y 
+ as well as the length of x and y together in the same line. 
+    Leave a space between the String and the integer.
+JaviBeans 9
+String x
+Your program must contain a String declaration called x.
+%
+Module 4 Programming Asssignment
+Declare an integer x and set it equal to three. Create in if-else 
+statement that displays "yes" if x is greater than 4 and "no" if x is less than 4 in the output.
+ 
+ 
+no
+if
+Your program must contain at least one if-else statement.
+%
+Module 5 Programming Assignment
+Create an int x and set it equal to zero. 
+Use a forloop to iterate from zero to 9. 
+For every iteration, increment x by 2. Display x.
+ 
+20
+for
+Your program must contain a forloop.
+%
+Module 6 Programming Assignment
+     Declare a new array object called A of size 5. 
+Fill the array with values 6 through 10 in ascending order.
+    Display the value at index 2 plus the value at 
+     the index 4 divided by the value at index 0.
+3
+new
+Your program must declare a new array object.

@@ -1,0 +1,63 @@
+ID Number(int)
+User name
+password
+Quiz 1 is complete (Yes or No)
+Question 1 Answer boolean: Right or Wrong
+Question 2 Answer boolean: Right or Wrong
+Question 3 Answer boolean: Right or Wrong 
+Question 4 Answer boolean: Right or Wrong
+Question 5 Answer boolean: Right or Wrong
+Time elapsed (double)
+Quiz 2 is complete (Yes or No)
+Question 1 Answer boolean: Right or Wrong
+Question 2 Answer boolean: Right or Wrong
+Question 3 Answer boolean: Right or Wrong
+Question 4 Answer boolean: Right or Wrong
+Question 5 Answer boolean: Right or Wrong
+Time elapsed (double)
+Quiz 3 is complete (Yes or No)
+Question 1 Answer boolean: Right or Wrong
+Question 2 Answer boolean: Right or Wrong
+Question 3 Answer boolean: Right or Wrong
+Question 4 Answer boolean: Right or Wrong
+Question 5 Answer boolean: Right or Wrong
+Time elapsed (double)
+Quiz 4 is complete (Yes or No)
+Question 1 Answer boolean: Right or Wrong
+Question 2 Answer boolean: Right or Wrong
+Question 3 Answer boolean: Right or Wrong
+Question 4 Answer boolean: Right or Wrong
+Question 5 Answer boolean: Right or Wrong
+Time elapsed (double)
+Quiz 5 is complete (Yes or No)
+Question 1 Answer boolean: Right or Wrong
+Question 2 Answer boolean: Right or Wrong
+Question 3 Answer boolean: Right or Wrong
+Question 4 Answer boolean: Right or Wrong
+Question 5 Answer boolean: Right or Wrong
+Time elapsed (double)
+Quiz 6 is complete (Yes or No)
+Question 1 Answer boolean: Right or Wrong
+Question 2 Answer boolean: Right or Wrong
+Question 3 Answer boolean: Right or Wrong
+Question 4 Answer boolean: Right or Wrong
+Question 5 Answer boolean: Right or Wrong
+Time elapsed (double)
+Assignment 1 is complete (yes or no) 
+Correct or Incorrect boolean: Right or Wrong
+Time elapsed (double)
+Assignment 2 is complete (yes or no) 
+Correct or Incorrect boolean: Right or Wrong
+Time elapsed (double)
+Assignment 3 is complete (yes or no) 
+Correct or Incorrect boolean: Right or Wrong
+Time elapsed (double)
+Assignment 4 is complete (yes or no) 
+Correct or Incorrect boolean: Right or Wrong
+Time elapsed (double)
+Assignment 5 is complete (yes or no) 
+Correct or Incorrect boolean: Right or Wrong
+Time elapsed (double)
+Assignment 6 is complete (yes or no) 
+Correct or Incorrect boolean: Right or Wrong
+Time elapsed (double)
