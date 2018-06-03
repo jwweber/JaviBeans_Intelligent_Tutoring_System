@@ -1,5 +1,9 @@
 # JaviBeans_Intelligent_Tutoring_System
--To run this application, simply select the class called driver and click Run.
+-
+
+Please download and view video demonstrations.
+
+To run this application, simply select the class called driver and click Run.
 -A login window will appear. To create a new profile, enter a name and password and click register, followed by log in.
 -If you do not wish to create a profile, enter "user" and "password" in the respective fields for a default account.
 -The slider will allow you to navigate the application.
@@ -12,7 +16,7 @@ System.out.println("Hello World!");
 and click submit or run.
 -The system will write it to a class file, compile it, run it, and read the outputstream and match it to a key.
 
-Additional Features for Project 4:
+Additional Features for final build:
 -The main user interface has had a massive overhaul
 -The companion now speaks to the user via the text field on the left
 -Companion speech is triggered by time. It follows the decorator pattern
